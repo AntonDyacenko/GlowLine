@@ -1,4 +1,7 @@
 # 🌙 Growline — умный ночник
+![photo_2025-05-27_16-56-50](https://github.com/user-attachments/assets/af8e1202-93c7-4e9b-a48d-43b673bea3cb)
+![IMG_3315_1](https://github.com/user-attachments/assets/87b83961-13ae-4d41-a595-48116013914a)
+
 
 ---
 
